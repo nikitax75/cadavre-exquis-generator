@@ -1,0 +1,12 @@
+Hello Thomas, 
+Your mission, if you accept it is to create a program that will auto-generate cadavre exquis-style sentences randomly.
+Your program will read 3 input files:
+verbs.dict containing verbs separated by spaces ex: [nique percute fabrique dechante]
+nouns.dict [ma-grand-mere gerald novalue coronavirus]
+adverbs.dict [rapidement avec-amour]
+
+Le but de la manoeuvre est que le programme genere tout seul et de maniere aleatoire un phrase de la forme noun + verbs + noun + adverb. Exemple: gerald percute ma-grand-mere avec-amour
+Vous avez bien sur toute la liberte necessaire dans la conception dudit logiciel. Vous etes bien sur encourage a selectionner les noms, verbes et adverbes appropries et amusants.
+
+
+BONNE CHANCE
