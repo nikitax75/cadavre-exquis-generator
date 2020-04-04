@@ -16,7 +16,7 @@ noun1 = funny_generator("nouns.dict")
 verb = funny_generator("verbs.dict")
 noun2 = funny_generator("nouns.dict")
 adverb = funny_generator("adverbs.dict")
-#-*-coding:utf-8-*-
+
 print(noun1 + " "+ verb + " " + noun2 + " " + adverb)
 
 
